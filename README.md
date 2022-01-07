@@ -11,6 +11,7 @@ Timely repair of defects present on road asphalt is an important task to increas
 - 1.2 Objective 
 - 1.3 Motivation 
 - 1.4 Document Structure 
+
 [Context and Technologies](#ContextandTechnologies) 
 - 2.1 Neural Networks 
 - 2.2 Activation function 
@@ -19,17 +20,22 @@ Timely repair of defects present on road asphalt is an important task to increas
 - 2.5 Pytorch 
 - 2.5 Dataset 
 - 2.6 GPU 
+
 [Approach](#Approach) 
 - 3.1 Project Steps 
 - 3.2 Semantic Segmentation 
 - 3.3 U-Net 
+
 Development](#Development) 
 - 4.1 Pre-processing of images 
 - 4.2 Optimization Adam 
 - 4.3 Cross Entropy 
 - 4.4 Intersection over union (IoU) 
 - 4.5 Save the template 
+
 [Tests](#Tests) 
 - 5.1 Analysis of results 
+
 [Conclusions](#Conclusions) 
+
 [Bibliography](#Bibliography)
