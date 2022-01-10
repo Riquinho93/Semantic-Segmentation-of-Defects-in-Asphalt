@@ -26,7 +26,7 @@ Timely repair of defects present on road asphalt is an important task to increas
 - 3.2 Semantic Segmentation 
 - 3.3 U-Net 
 
-Development](#Development) 
+[Development](#Development) 
 - 4.1 Pre-processing of images 
 - 4.2 Optimization Adam 
 - 4.3 Cross Entropy 
