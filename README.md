@@ -74,3 +74,8 @@ In this work, supervised learning is used for image segmentation, in which the i
 We will present a concept that has been solidifying over the years, which is semantic segmentation (more details in chapter 3) that classifies an image into pixels, in which we start with an image and end with a model.
 
 1.4 Document Structure
+
+The report is composed as follows: Introduction, where the general content for project implementation is being explained; Context, technologies and tools, where the problems encountered, the proposed solution for implementation and the tools to be used will be clearly explained; approach, where it actually describes in depth what was implemented; Development, describes in detail the development sequence of the project; Tests, specifies the tests carried out and providing the necessary justifications; Deployment, which will put the model into production on an android system; Conclusions, makes the last conclusions about the work, explains other possibilities that could be made and says if the work will have any continuity.
+
+# Context and Technologies
+
